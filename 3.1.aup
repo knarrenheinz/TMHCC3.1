@@ -1205,73 +1205,6 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<labeltrack name="vikedits" numlabels="1" height="201" minimized="1" isSelected="0">
-		<label t="814.8925870917" t1="814.8925870917" title="marking this part for future ref. possible quote around this label."/>
-	</labeltrack>
-	<labeltrack name="Label Track" numlabels="62" height="134" minimized="1" isSelected="0">
-		<label t="37.9178075554" t1="44.7421903156" title="Plosives everywhere, we can go surgical but we can also ask them to rerecord, i made a few edits though"/>
-		<label t="37.9178075554" t1="44.7421903156" title="Intro"/>
-		<label t="45.2133012068" t1="51.8341248859" title="Plosives everywhere, we can go surgical but we can also ask them to rerecord, i made a few edits though"/>
-		<label t="45.2133012068" t1="51.8341248859" title="Intro"/>
-		<label t="52.2216183852" t1="76.8918879668" title="Plosives everywhere, we can go surgical but we can also ask them to rerecord, i made a few edits though"/>
-		<label t="52.2216183852" t1="76.8918879668" title="Intro"/>
-		<label t="76.8918879668" t1="84.1544504668" title="Her audio quality is very different from her audio quality in the intro"/>
-		<label t="76.8918879668" t1="84.1544504668" title="Q1"/>
-		<label t="84.1544504668" t1="97.3492036947" title="A1"/>
-		<label t="97.8203145858" t1="281.1647801079" title="A1"/>
-		<label t="163.5715526421" t1="164.1292150349" title="lag"/>
-		<label t="281.1647801079" t1="290.1912801079" title="Q2"/>
-		<label t="290.1912855808" t1="416.1130668308" title="A2"/>
-		<label t="376.6739730808" t1="416.1130668308" title="Qoute ?"/>
-		<label t="416.1130668308" t1="427.5605043308" title="Q3"/>
-		<label t="428.3035355808" t1="469.1010043308" title="A3"/>
-		<label t="428.3035355808" t1="469.1010043308" title="Qoute ?"/>
-		<label t="469.1010043308" t1="479.3061918308" title="Q4"/>
-		<label t="479.3061918308" t1="546.0635355808" title="A4"/>
-		<label t="527.3482702746" t1="528.0564788914" title="removed some of these earlier"/>
-		<label t="540.2585650592" t1="544.1246875082" title="some lag"/>
-		<label t="546.0635355808" t1="554.4111293308" title="Q5"/>
-		<label t="550.1967056488" t1="554.4111274175" title="removable"/>
-		<label t="554.4111293308" t1="697.0509324753" title="Q5"/>
-		<label t="697.0509324753" t1="699.0535997981" title="Q6"/>
-		<label t="699.9958387216" t1="699.9958901488" title="Q6"/>
-		<label t="699.9958901488" t1="727.0413276488" title="A6"/>
-		<label t="727.0413276488" t1="729.1195151488" title="Q7"/>
-		<label t="729.1195151451" t1="886.4876230006" title="A7"/>
-		<label t="886.4876230006" t1="903.2350292506" title="Q8"/>
-		<label t="903.2350292506" t1="975.3213730006" title="A8"/>
-		<label t="940.6365605006" t1="975.3213730006" title="Qoute ?"/>
-		<label t="975.3213759768" t1="982.5504357147" title="Q9"/>
-		<label t="983.0215466059" t1="1011.7485806180" title="Q9"/>
-		<label t="1011.7485806180" t1="1198.5937368680" title="A9"/>
-		<label t="1198.5937368680" t1="1208.3983618680" title="Q10"/>
-		<label t="1208.3983618680" t1="1244.7492056180" title="A10"/>
-		<label t="1244.7492056180" t1="1259.6047360461" title="Q11"/>
-		<label t="1260.0758469372" t1="1269.8566915091" title="Q11"/>
-		<label t="1269.8566915091" t1="1437.1678837974" title="A11"/>
-		<label t="1437.1678837974" t1="1450.1362275474" title="Q12"/>
-		<label t="1450.1362275474" t1="1480.1712275474" title="A12"/>
-		<label t="1480.1712275474" t1="1482.4700087974" title="Q13"/>
-		<label t="1482.4700087974" t1="1568.9379628792" title="A13"/>
-		<label t="1568.9379628792" t1="1600.7841191292" title="Q14"/>
-		<label t="1600.7841376950" t1="1745.9146376950" title="A14"/>
-		<label t="1661.4753029480" t1="1661.8236022678" title="lag"/>
-		<label t="1718.9853256238" t1="1720.7210172337" title="dip in quality"/>
-		<label t="1745.9146376950" t1="1780.7589854764" title="Q15"/>
-		<label t="1780.7589854764" t1="1898.5886417264" title="A15"/>
-		<label t="1898.5886417264" t1="1906.6111417264" title="Q16"/>
-		<label t="1906.6111417264" t1="1951.9320113936" title="A16"/>
-		<label t="1952.5589488936" t1="1988.1977042817" title="Q17"/>
-		<label t="1988.1977042817" t1="2036.8783292816" title="A17"/>
-		<label t="2036.8783292816" t1="2039.4034855316" title="Q18"/>
-		<label t="2039.4034855316" t1="2107.2463917816" title="A18"/>
-		<label t="2107.2463917816" t1="2109.7541417817" title="Q19"/>
-		<label t="2107.2463917816" t1="2109.7541417817" title="Overspeak"/>
-		<label t="2109.7541417817" t1="2142.7961417817" title="A19"/>
-		<label t="2142.7961417817" t1="2146.0817667817" title="Q20"/>
-		<label t="2146.0817667817" t1="2149.0435012039" title="A20"/>
-		<label t="2149.0435012039" t1="2154.3811887039" title="Outro"/>
-	</labeltrack>
 	<wavetrack name="3.1.output" channel="2" linked="0" mute="0" solo="0" height="115" minimized="0" isSelected="0" rate="32000" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="4.26981250" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="893083">
@@ -1399,4 +1332,71 @@
 			</envelope>
 		</waveclip>
 	</wavetrack>
+	<labeltrack name="Label Track" numlabels="62" height="134" minimized="1" isSelected="0">
+		<label t="37.9178075554" t1="44.7421903156" title="Plosives everywhere, we can go surgical but we can also ask them to rerecord, i made a few edits though"/>
+		<label t="37.9178075554" t1="44.7421903156" title="Intro"/>
+		<label t="45.2133012068" t1="51.8341248859" title="Plosives everywhere, we can go surgical but we can also ask them to rerecord, i made a few edits though"/>
+		<label t="45.2133012068" t1="51.8341248859" title="Intro"/>
+		<label t="52.2216183852" t1="76.8918879668" title="Plosives everywhere, we can go surgical but we can also ask them to rerecord, i made a few edits though"/>
+		<label t="52.2216183852" t1="76.8918879668" title="Intro"/>
+		<label t="76.8918879668" t1="84.1544504668" title="Her audio quality is very different from her audio quality in the intro"/>
+		<label t="76.8918879668" t1="84.1544504668" title="Q1"/>
+		<label t="84.1544504668" t1="97.3492036947" title="A1"/>
+		<label t="97.8203145858" t1="281.1647801079" title="A1"/>
+		<label t="163.5715526421" t1="164.1292150349" title="lag"/>
+		<label t="281.1647801079" t1="290.1912801079" title="Q2"/>
+		<label t="290.1912855808" t1="416.1130668308" title="A2"/>
+		<label t="376.6739730808" t1="416.1130668308" title="Qoute ?"/>
+		<label t="416.1130668308" t1="427.5605043308" title="Q3"/>
+		<label t="428.3035355808" t1="469.1010043308" title="A3"/>
+		<label t="428.3035355808" t1="469.1010043308" title="Qoute ?"/>
+		<label t="469.1010043308" t1="479.3061918308" title="Q4"/>
+		<label t="479.3061918308" t1="546.0635355808" title="A4"/>
+		<label t="527.3482702746" t1="528.0564788914" title="removed some of these earlier"/>
+		<label t="540.2585650592" t1="544.1246875082" title="some lag"/>
+		<label t="546.0635355808" t1="554.4111293308" title="Q5"/>
+		<label t="550.1967056488" t1="554.4111274175" title="removable"/>
+		<label t="554.4111293308" t1="697.0509324753" title="Q5"/>
+		<label t="697.0509324753" t1="699.0535997981" title="Q6"/>
+		<label t="699.9958387216" t1="699.9958901488" title="Q6"/>
+		<label t="699.9958901488" t1="727.0413276488" title="A6"/>
+		<label t="727.0413276488" t1="729.1195151488" title="Q7"/>
+		<label t="729.1195151451" t1="886.4876230006" title="A7"/>
+		<label t="886.4876230006" t1="903.2350292506" title="Q8"/>
+		<label t="903.2350292506" t1="975.3213730006" title="A8"/>
+		<label t="940.6365605006" t1="975.3213730006" title="Qoute ?"/>
+		<label t="975.3213759768" t1="982.5504357147" title="Q9"/>
+		<label t="983.0215466059" t1="1011.7485806180" title="Q9"/>
+		<label t="1011.7485806180" t1="1198.5937368680" title="A9"/>
+		<label t="1198.5937368680" t1="1208.3983618680" title="Q10"/>
+		<label t="1208.3983618680" t1="1244.7492056180" title="A10"/>
+		<label t="1244.7492056180" t1="1259.6047360461" title="Q11"/>
+		<label t="1260.0758469372" t1="1269.8566915091" title="Q11"/>
+		<label t="1269.8566915091" t1="1437.1678837974" title="A11"/>
+		<label t="1437.1678837974" t1="1450.1362275474" title="Q12"/>
+		<label t="1450.1362275474" t1="1480.1712275474" title="A12"/>
+		<label t="1480.1712275474" t1="1482.4700087974" title="Q13"/>
+		<label t="1482.4700087974" t1="1568.9379628792" title="A13"/>
+		<label t="1568.9379628792" t1="1600.7841191292" title="Q14"/>
+		<label t="1600.7841376950" t1="1745.9146376950" title="A14"/>
+		<label t="1661.4753029480" t1="1661.8236022678" title="lag"/>
+		<label t="1718.9853256238" t1="1720.7210172337" title="dip in quality"/>
+		<label t="1745.9146376950" t1="1780.7589854764" title="Q15"/>
+		<label t="1780.7589854764" t1="1898.5886417264" title="A15"/>
+		<label t="1898.5886417264" t1="1906.6111417264" title="Q16"/>
+		<label t="1906.6111417264" t1="1951.9320113936" title="A16"/>
+		<label t="1952.5589488936" t1="1988.1977042817" title="Q17"/>
+		<label t="1988.1977042817" t1="2036.8783292816" title="A17"/>
+		<label t="2036.8783292816" t1="2039.4034855316" title="Q18"/>
+		<label t="2039.4034855316" t1="2107.2463917816" title="A18"/>
+		<label t="2107.2463917816" t1="2109.7541417817" title="Q19"/>
+		<label t="2107.2463917816" t1="2109.7541417817" title="Overspeak"/>
+		<label t="2109.7541417817" t1="2142.7961417817" title="A19"/>
+		<label t="2142.7961417817" t1="2146.0817667817" title="Q20"/>
+		<label t="2146.0817667817" t1="2149.0435012039" title="A20"/>
+		<label t="2149.0435012039" t1="2154.3811887039" title="Outro"/>
+	</labeltrack>
+	<labeltrack name="vikedits" numlabels="1" height="201" minimized="1" isSelected="0">
+		<label t="814.8925870917" t1="814.8925870917" title="marking this part for future ref. possible quote around this label."/>
+	</labeltrack>
 </project>
